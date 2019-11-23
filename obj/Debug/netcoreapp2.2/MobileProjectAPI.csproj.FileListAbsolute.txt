@@ -1,0 +1,16 @@
+C:\Users\amber\source\repos\MobileProjectAPI\MobileProjectAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\amber\source\repos\MobileProjectAPI\MobileProjectAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\amber\source\repos\MobileProjectAPI\MobileProjectAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\amber\source\repos\MobileProjectAPI\MobileProjectAPI\bin\Debug\netcoreapp2.2\MobileProjectAPI.deps.json
+C:\Users\amber\source\repos\MobileProjectAPI\MobileProjectAPI\bin\Debug\netcoreapp2.2\MobileProjectAPI.runtimeconfig.json
+C:\Users\amber\source\repos\MobileProjectAPI\MobileProjectAPI\bin\Debug\netcoreapp2.2\MobileProjectAPI.runtimeconfig.dev.json
+C:\Users\amber\source\repos\MobileProjectAPI\MobileProjectAPI\bin\Debug\netcoreapp2.2\MobileProjectAPI.dll
+C:\Users\amber\source\repos\MobileProjectAPI\MobileProjectAPI\obj\Debug\netcoreapp2.2\MobileProjectAPI.csprojAssemblyReference.cache
+C:\Users\amber\source\repos\MobileProjectAPI\MobileProjectAPI\obj\Debug\netcoreapp2.2\MobileProjectAPI.RazorAssemblyInfo.cache
+C:\Users\amber\source\repos\MobileProjectAPI\MobileProjectAPI\obj\Debug\netcoreapp2.2\MobileProjectAPI.RazorAssemblyInfo.cs
+C:\Users\amber\source\repos\MobileProjectAPI\MobileProjectAPI\obj\Debug\netcoreapp2.2\MobileProjectAPI.AssemblyInfoInputs.cache
+C:\Users\amber\source\repos\MobileProjectAPI\MobileProjectAPI\obj\Debug\netcoreapp2.2\MobileProjectAPI.AssemblyInfo.cs
+C:\Users\amber\source\repos\MobileProjectAPI\MobileProjectAPI\obj\Debug\netcoreapp2.2\MobileProjectAPI.RazorTargetAssemblyInfo.cache
+C:\Users\amber\source\repos\MobileProjectAPI\MobileProjectAPI\bin\Debug\netcoreapp2.2\MobileProjectAPI.pdb
+C:\Users\amber\source\repos\MobileProjectAPI\MobileProjectAPI\obj\Debug\netcoreapp2.2\MobileProjectAPI.dll
+C:\Users\amber\source\repos\MobileProjectAPI\MobileProjectAPI\obj\Debug\netcoreapp2.2\MobileProjectAPI.pdb
