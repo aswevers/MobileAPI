@@ -28,8 +28,15 @@ namespace MobileProjectAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //CORS
+            services.AddCors(o => o.AddPolicy("MyPolicy", builder => { 
+                builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader(); 
+            }));
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddDbContext<CookbookContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            
+            //Swagger
             services.AddSwaggerGen(c => { 
                 c.SwaggerDoc("v1", new Info { 
                     Title = "My API", Version = "v1"
@@ -50,6 +57,7 @@ namespace MobileProjectAPI
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
+            app.UseCors("MyPolicy");
 
             app.UseHttpsRedirection();
             app.UseMvc();
